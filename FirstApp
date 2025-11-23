@@ -6,3 +6,4 @@ and follow the prompts
 run the app:
 cd my-angular-app
 ng serve    //starts a local dev server and watches for changes
+OR ng serve --open    //automatically open the app in your default browser, by default the dev server runs on http://localhost:4200
