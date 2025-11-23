@@ -5,4 +5,4 @@ and follow the prompts
 
 run the app:
 cd my-angular-app
-ng serve
+ng serve    //starts a local dev server and watches for changes
