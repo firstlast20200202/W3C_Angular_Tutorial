@@ -12,3 +12,6 @@ stop running the app:
 ctrl+C
 
 make this as introduction of a city project
+
+create a component:
+$ ng generate component <component-name>
