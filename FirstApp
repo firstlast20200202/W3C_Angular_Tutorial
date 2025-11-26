@@ -15,3 +15,5 @@ make this as introduction of a city project
 
 create a component:
 $ ng generate component <component-name>
+
+continue on component section: especially examples
