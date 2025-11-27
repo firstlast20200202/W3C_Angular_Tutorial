@@ -16,4 +16,9 @@ make this as introduction of a city project
 create a component:
 $ ng generate component <component-name>
 
+add toggleable tabs:
+step 1, add HTML
+step 2, add CSS
+step 3, add JS
+
 continue on component section: especially examples
