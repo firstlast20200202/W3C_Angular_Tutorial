@@ -21,4 +21,15 @@ step 1, add HTML
 step 2, add CSS
 step 3, add JS
 
+for now the html format doesnt look quite right
+<html>
+<head>
+</head>
+<body>
+<script>
+</script>
+</body>
+</html>
+
+
 continue on component section: especially examples
