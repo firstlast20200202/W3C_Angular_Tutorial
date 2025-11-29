@@ -2,7 +2,6 @@ create an angular app:
 $ ng new my-angular-app
 and follow the prompts 
 
-
 run the app:
 cd my-angular-app
 ng serve    //starts a local dev server and watches for changes
@@ -10,8 +9,6 @@ OR ng serve --open    //automatically open the app in your default browser, by d
 
 stop running the app:
 ctrl+C
-
-make this as introduction of a city project
 
 create a component:
 $ ng generate component <component-name>
@@ -21,13 +18,6 @@ step 1, add HTML
 step 2, add CSS
 step 3, add JS
 
-for now the html format doesnt look quite right
-<html>
-<head>
-</head>
-<body>
-<script>
-</script>
-</body>
-</html>
+to make self defined component rendered:
+put the functiion implementation in the index.html file (it shouldnt be in this file, i copied the code from W3C html tutorial, it would confuse the browser)
 
