@@ -19,5 +19,35 @@ step 2, add CSS
 step 3, add JS
 
 to make self defined component rendered:
-put the functiion implementation in the index.html file (it shouldnt be in this file, i copied the code from W3C html tutorial, it would confuse the browser)
+1. put the functiion implementation in the index.html file 
+(it shouldnt be in this file, it should be in app root component ts file; i copied the code from W3C html tutorial, here it mixes with angular, 
+it would confuse the browser)
+
+2. in index.html file:
+<body>
+  <app-self-defined></app-self-defined>    
+</body>
+
+3. in main.ts file:
+import { SelfDefinedComponent } from './app/self-defined/self-defined.component';
+
+4. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
