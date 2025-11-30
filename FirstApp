@@ -31,7 +31,9 @@ it would confuse the browser)
 3. in main.ts file:
 import { SelfDefinedComponent } from './app/self-defined/self-defined.component';
 
-4. 
+idea:
+have a add link showing a form
+save the form will direct to another page
 
 
 
